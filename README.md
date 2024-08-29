@@ -13,11 +13,11 @@
 # <img src="./stats.svg" alt="Skills" width="50" height="50"> GitHub Stats
 
 <a href="https://github.com/INFORM4TYK">
-  <img src="https://github-readme-stats-zeta-lemon.vercel.app
+  <img src="https://github-readme-stats-psi-gray-41.vercel.app
 /api/top-langs/?username=inform4tyk&hide=html,css&theme=vue-dark&langs_count=3" />
 </a>
 <a href="https://github.com/INFORM4TYK">
-  <img  src="https://github-readme-stats-zeta-lemon.vercel.app
+  <img  src="https://github-readme-stats-psi-gray-41.vercel.app
 /api?username=inform4tyk&show_icons=true&hide=prs,issues,contribs&line_height=30&count_private=true&theme=vue-dark" alt="Braydon's GitHub Stats" />
 </a>
 
