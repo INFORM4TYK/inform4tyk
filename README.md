@@ -18,7 +18,7 @@
 </a>
 <a href="https://github.com/INFORM4TYK">
   <img  src="https://github-readme-stats-psi-gray-41.vercel.app
-/api?username=inform4tyk&show_icons=true&hide=prs,issues,contribs&line_height=30&count_private=true&theme=vue-dark" alt="Braydon's GitHub Stats" />
+/api?username=inform4tyk&show_icons=true&hide=prs,issues,contribs&line_height=30&count_private=true&theme=vue-dark" alt="Kacper's GitHub Stats" />
 </a>
 
 <!-- BLOG-POST-LIST:END -->
