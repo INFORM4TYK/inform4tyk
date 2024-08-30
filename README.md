@@ -7,14 +7,30 @@
 
 # <img src="./stats.svg" alt="Skills" width="50" height="50"> GitHub Stats
 
-  <img decoding="async" loading="lazy" src="https://github-readme-stats-psi-gray-41.vercel.app
-/api/top-langs/?username=inform4tyk&hide=html,css&theme=vue-dark&langs_count=3" />
+<picture>
+  <source
+    srcset="https://github-readme-stats-psi-gray-41.vercel.app/api?username=inform4tyk&show_icons=true&hide=prs,issues,contribs&line_height=30&count_private=true&theme=vue-dark" alt="Kacper's GitHub Stats"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-psi-gray-41.vercel.app/api?username=inform4tyk&show_icons=true&hide=prs,issues,contribs&line_height=30&count_private=true&theme=vue-dark" alt="Kacper's GitHub Stats"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-psi-gray-41.vercel.app
+/api?username=inform4tyk&show_icons=true&hide=prs,issues,contribs&line_height=30&count_private=true&theme=vue-dark" />
+</picture>
 
-
-  <img decoding="async" loading="lazy" src="https://github-readme-stats-psi-gray-41.vercel.app
-/api?username=inform4tyk&show_icons=true&hide=prs,issues,contribs&line_height=30&count_private=true&theme=vue-dark" alt="Kacper's GitHub Stats" />
-
-
+<picture>
+  <source
+    srcset="https://github-readme-stats-psi-gray-41.vercel.app/api/top-langs/?username=inform4tyk&hide=html,css&theme=vue-dark&langs_count=3" alt="Kacper's GitHub Stats"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-psi-gray-41.vercel.app/api/top-langs/?username=inform4tyk&hide=html,css&theme=vue-dark&langs_count=3" alt="Kacper's GitHub Stats"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-psi-gray-41.vercel.app/api/top-langs/?username=inform4tyk&hide=html,css&theme=vue-dark&langs_count=3" />
+</picture>
 
 <!-- BLOG-POST-LIST:END -->
 
