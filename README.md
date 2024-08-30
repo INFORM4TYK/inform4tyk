@@ -3,11 +3,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/inform4tyk/inform4tyk)](https://github.com/INFORM4TYK)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kacper-woźnicki-534b41274/)
 
-- 🔭 Aktualnie freelancer
-- 🌱 Aktualnie pracuje nad największym projektem w moim życiu
-- 👯 Jestem otwarty na oferty pracy oraz na wspołpracę
-- 💬 Napisz do mnie napewno się odezwę
-
 <!-- BLOG-POST-LIST:START -->
 
 # <img src="./stats.svg" alt="Skills" width="50" height="50"> GitHub Stats
