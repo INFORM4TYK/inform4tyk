@@ -11,14 +11,9 @@
 <picture>
   <source
     srcset="https://github-readme-stats-psi-gray-41.vercel.app/api?username=inform4tyk&show_icons=true&hide=prs,issues,contribs&line_height=30&count_private=true&theme=vue-dark"
-    media="(prefers-color-scheme: dark)"
     alt="Kacper's GitHub Stats"
   />
-  <source
-    srcset="https://github-readme-stats-psi-gray-41.vercel.app/api?username=inform4tyk&show_icons=true&hide=prs,issues,contribs&line_height=30&count_private=true&theme=vue-dark"
-    media="(prefers-color-scheme: light)"
-    alt="Kacper's GitHub Stats"
-  />
+
   <img src="https://github-readme-stats-psi-gray-41.vercel.app/api?username=inform4tyk&show_icons=true&hide=prs,issues,contribs&line_height=30&count_private=true&theme=vue-dark" alt="Kacper's GitHub Stats"/>
 </picture>
 
