@@ -3,6 +3,7 @@
      <img src="https://streak-stats.demolab.com?user=inform4tyk&hide_border=true&mode=daily&theme=vue-dark" alt="GitHub Streak" />
   </a>
 </p>
+
 <p align="center">
    <a href="https://github.com/inform4tyk">
     <img height="120" src="https://github-readme-stats-psi-gray-41.vercel.app/api/top-langs/?username=inform4tyk&hide=html,css&theme=vue-dark&langs_count=3" alt="Kacper's GitHub Stats" />
