@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" >
   <a href="https://github.com/inform4tyk">
      <img src="https://streak-stats.demolab.com?user=inform4tyk&hide_border=true&mode=daily&theme=vue-dark" alt="GitHub Kacper Streak" />
   </a>
