@@ -27,33 +27,40 @@ GoSpotly is a mobile app designed to give users the ability to discover less cro
 
 > ⚠️ **Warning:**  
 > <span style="color:red">The presented recordings are only for demonstration purposes to showcase the app's functionality and are subject to change before the official release.</span>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
-  <div style="flex: 1 1 200px; max-width: 150px; text-align: center;">
-    <h4>🗝️ Login & Registration</h4>
-    <img src="./assets/video/app/login.gif" width="150" />
-    <p>Users can sign up, log in, and access personalized features.</p>
-  </div>
-  <div style="flex: 1 1 150px; max-width: 150px; text-align: center;">
-    <h4>⚙️ App Settings</h4>
-    <img src="./assets/video/app/settings.gif" width="150" />
-    <p>Users can adjust app preferences like theme, language, notifications, and more.</p>
-  </div>
-  <div style="flex: 1 1 150px; max-width: 150px; text-align: center;">
-    <h4>📝 Advanced Forms</h4>
-    <img src="./assets/video/app/form.gif" width="150" />
-    <p>GoSpotly features advanced forms for adding content, with validation and user-friendly interactions.</p>
-  </div>
-  <div style="flex: 1 1 150px; max-width: 150px; text-align: center;">
-    <h4>📍 Places & Reactions</h4>
-    <img src="./assets/video/app/topics.gif" width="150" />
-    <p>Users can explore places, view details, rate, like, and save them.</p>
-  </div>
-   <div style="flex: 1 1 150px; max-width: 150px; text-align: center;">
-    <h4>👥 Friends</h4>
-    <img src="./assets/video/app/friends.gif" width="150" />
-    <p>Users can add friends and make new ones.</p>
-  </div>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="200">
+      <h4>🗝️ Login & Registration</h4>
+      <img src="./assets/video/app/login.gif" width="150" /><br/>
+      <p>Users can sign up, log in, and access personalized features.</p>
+    </td>
+    <td align="center" width="200">
+      <h4>⚙️ App Settings</h4>
+      <img src="./assets/video/app/settings.gif" width="150" /><br/>
+      <p>Users can adjust app preferences like theme, language, notifications, and more.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h4>📝 Advanced Forms</h4>
+      <img src="./assets/video/app/form.gif" width="150" /><br/>
+      <p>GoSpotly features advanced forms for adding content.</p>
+    </td>
+    <td align="center" width="200">
+      <h4>📍 Places & Reactions</h4>
+      <img src="./assets/video/app/topics.gif" width="150" /><br/>
+      <p>Users can explore places, view details, rate, like, and save them.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h4>👥 Friends</h4>
+      <img src="./assets/video/app/friends.gif" width="150" /><br/>
+      <p>Users can add friends and make new ones.</p>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br />
