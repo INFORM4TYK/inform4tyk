@@ -12,8 +12,7 @@
   <a href="">
     <img src="./assets/images/gospotly.svg" alt="Logo" width="200" height="60">
   </a>
-  <h3 align="center">GoSpotly - Preview of the App</h3>
-  <p align="center"><i>My own product</i></p>
+  <h3 align="center">Preview of the App</h3>
 
 <h3>Project Stats:</h3>
 <div style="text-align: center;">
@@ -60,9 +59,14 @@ GoSpotly is a mobile app designed to give users the ability to discover less cro
 </table>
 </div>
 
-## Join Newsletter
+ <a href="https://gospotly.com/">
+  
+  ## Join Newsletter 📝
+  </a>
 
+ <a href="https://gospotly.com/">
 <img src="./assets/images/gospotly.png" width="700"/><br/>
+  </a>
 <br />
 
 <div align="center">
