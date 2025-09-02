@@ -33,31 +33,26 @@ GoSpotly is a mobile app designed to give users the ability to discover less cro
     <td align="center" width="200">
       <h4>🗝️ Login & Registration</h4>
       <img src="./assets/video/app/login.gif" width="150" /><br/>
-      <p>Users can sign up, log in, and access personalized features.</p>
     </td>
     <td align="center" width="200">
       <h4>⚙️ App Settings</h4>
       <img src="./assets/video/app/settings.gif" width="150" /><br/>
-      <p>Users can adjust app preferences like theme, language, notifications, and more.</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
       <h4>📝 Advanced Forms</h4>
       <img src="./assets/video/app/form.gif" width="150" /><br/>
-      <p>GoSpotly features advanced forms for adding content.</p>
     </td>
     <td align="center" width="200">
       <h4>📍 Places & Reactions</h4>
       <img src="./assets/video/app/topics.gif" width="150" /><br/>
-      <p>Users can explore places, view details, rate, like, and save them.</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
       <h4>👥 Friends</h4>
       <img src="./assets/video/app/friends.gif" width="150" /><br/>
-      <p>Users can add friends and make new ones.</p>
     </td>
   </tr>
 </table>
