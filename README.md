@@ -10,6 +10,7 @@
     <img src="./assets/images/gospotly.svg" alt="Logo" width="400" height="120">
   </a>
   <h3 align="center">GoSpotly - Preview of the App</h3>
+  <p align="center"><i>My own product</i></p>
  <p align="center">
   GoSpotly is a mobile app designed to help you discover and explore interesting spots around you. 
   This is a preview version showcasing screenshots and demo videos to give you a feel of the app's features.
@@ -28,29 +29,29 @@ GoSpotly is a mobile app designed to give users the ability to discover less cro
 > <span style="color:red">The presented recordings are only for demonstration purposes to showcase the app's functionality and are subject to change before the official release.</span>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
-  <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 200px; max-width: 150px; text-align: center;">
     <h4>🗝️ Login & Registration</h4>
-    <img src="./assets/video/app/login.gif" width="300" />
+    <img src="./assets/video/app/login.gif" width="150" />
     <p>Users can sign up, log in, and access personalized features.</p>
   </div>
-  <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 150px; max-width: 150px; text-align: center;">
     <h4>⚙️ App Settings</h4>
-    <img src="./assets/video/app/settings.gif" width="300" />
+    <img src="./assets/video/app/settings.gif" width="150" />
     <p>Users can adjust app preferences like theme, language, notifications, and more.</p>
   </div>
-  <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 150px; max-width: 150px; text-align: center;">
     <h4>📝 Advanced Forms</h4>
-    <img src="./assets/video/app/form.gif" width="300" />
+    <img src="./assets/video/app/form.gif" width="150" />
     <p>GoSpotly features advanced forms for adding content, with validation and user-friendly interactions.</p>
   </div>
-  <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 150px; max-width: 150px; text-align: center;">
     <h4>📍 Places & Reactions</h4>
-    <img src="./assets/video/app/topics.gif" width="300" />
+    <img src="./assets/video/app/topics.gif" width="150" />
     <p>Users can explore places, view details, rate, like, and save them.</p>
   </div>
-   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+   <div style="flex: 1 1 150px; max-width: 150px; text-align: center;">
     <h4>👥 Friends</h4>
-    <img src="./assets/video/app/friends.gif" width="300" />
+    <img src="./assets/video/app/friends.gif" width="150" />
     <p>Users can add friends and make new ones.</p>
   </div>
 </div>
@@ -69,6 +70,7 @@ GoSpotly is a mobile app designed to give users the ability to discover less cro
 This preview highlights the shop and admin panel of GoSpotly, showcasing features like the shopping cart, payment processing, place promotion, and administrative tools. The full app includes additional functionalities such as discovering places, reporting spots, creating events, and community interactions, which are not covered here.
 
 ## Screenshots / GIFs
+
 > ⚠️ **Warning:**  
 > <span style="color:red">The presented recordings are only for demonstration purposes to showcase the app's functionality and are subject to change before the official release.</span>
 
