@@ -5,15 +5,16 @@
 </p>
 
 <br />
+
+# My Projects
+
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./assets/images/gospotly.svg" alt="Logo" width="400" height="120">
+  <a href="">
+    <img src="./assets/images/gospotly.svg" alt="Logo" width="200" height="60">
   </a>
   <h3 align="center">GoSpotly - Preview of the App</h3>
   <p align="center"><i>My own product</i></p>
- <p align="center">
-  GoSpotly is a mobile app designed to help you discover and explore interesting spots around you. 
-  This is a preview version showcasing screenshots and demo videos to give you a feel of the app's features.
+
 <h3>Project Stats:</h3>
 <div style="text-align: center;">
 
@@ -27,6 +28,7 @@ GoSpotly is a mobile app designed to give users the ability to discover less cro
 
 > ⚠️ **Warning:**  
 > <span style="color:red">The presented recordings are only for demonstration purposes to showcase the app's functionality and are subject to change before the official release.</span>
+
 <div align="center">
 <table>
   <tr>
@@ -58,20 +60,19 @@ GoSpotly is a mobile app designed to give users the ability to discover less cro
 </table>
 </div>
 
+## Join Newsletter
+
+<img src="./assets/images/gospotly.png" width="700"/><br/>
 <br />
+
 <div align="center">
   <h3>🛒 Shop & 🛠️ Admin Panel Preview</h3>
-  <p>
-    This preview focuses on the GoSpotly shop and admin panel features, including the cart system, payment handling, and place promotion functionalities.
-    Screenshots and demo videos showcase how these parts of the app work.
-  </p>
+ 
 </div>
 
 ## About This Preview
 
 This preview highlights the shop and admin panel of GoSpotly, showcasing features like the shopping cart, payment processing, place promotion, and administrative tools. The full app includes additional functionalities such as discovering places, reporting spots, creating events, and community interactions, which are not covered here.
-
-## Screenshots / GIFs
 
 > ⚠️ **Warning:**  
 > <span style="color:red">The presented recordings are only for demonstration purposes to showcase the app's functionality and are subject to change before the official release.</span>
