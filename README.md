@@ -3,7 +3,6 @@
      <img src="https://streak-stats.demolab.com?user=inform4tyk&hide_border=true&mode=weekly&theme=vue-dark" alt="GitHub Kacper Streak" />
   </a>
 </p>
-
 <br />
 
 # My Projects
