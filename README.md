@@ -5,7 +5,6 @@
 </p>
 <br />
 # My Projects
-
 <div align="center">
   <a href="">
     <img src="./assets/images/gospotly.svg" alt="Logo" width="200" height="60">
