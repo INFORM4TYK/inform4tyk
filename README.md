@@ -25,7 +25,7 @@ GoSpotly is a mobile app designed to give users the ability to discover less cro
 > ⚠️ **Warning:**  
 > <span style="color:red">The presented recordings are only for demonstration purposes to showcase the app's functionality and are subject to change before the official release.</span>
 
-<div align="center">
+<!-- <div align="center">
 <table>
   <tr>
     <td align="center" width="200">
@@ -54,7 +54,7 @@ GoSpotly is a mobile app designed to give users the ability to discover less cro
     </td>
   </tr>
 </table>
-</div>
+</div> -->
 
  <a href="https://gospotly.com/">
   
